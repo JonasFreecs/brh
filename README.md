@@ -1,13 +1,6 @@
- ### API PARA O GERENCIAMENTO E CONTROLE DE ENTREGAS ###  
+ ### BRH ###  
  
-**API, fará o gerenciamento e controle de entrega.**
- 
-*****
 
- **Integrantes** :trophy:
-* Suryan RA:579622 :rocket:
-* Felipe RA:586676 :rocket:
-* Guilherme RA:465841 :rocket:
 ******
 <h2 align="center"> Projeto BRH</h2> 
 
